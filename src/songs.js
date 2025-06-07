@@ -11,7 +11,7 @@ import neethanae from './assets/Neethaanae_Mersal.mp3'
 import naan_un from './assets/Naan_un.mp3'
 import nilaneevaanam from './assets/Nila-Nee-Vaanam.mp3'
 import agastha from './assets/Agasatha.mp3'
-
+import lifeOfPazham from './assets/Life-of-Pazham.mp3'
 
 const songs = [
     {
@@ -78,6 +78,11 @@ const songs = [
         title: "Agasatha",
         artist: "Pradeep Kumar, Kalyani Nair, Santhosh Narayanan",
         src: agastha,
+    },
+    {
+        title: "Life Of Pazham",
+        artist: "Anirudh Ravichandran, Dhanush",
+        src: lifeOfPazham,
     },
 ];
 
