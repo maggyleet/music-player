@@ -20,27 +20,27 @@ const songs = [
         src: lifeOfRam,
     },
     {
-        title: "Nenjukulle",
+        title: "Nenjukulle - Kadal",
         artist: "Shakthishree Gopalakrishnan, A R Rahman",
         src: nenjukulle,
     },
     {
-        title: "Maya Nadhi",
+        title: "Maya Nadhi - Kabali",
         artist: "Pradeep Kumar, Swetha Mohan, Santhosh Narayanan",
         src: mayaNadhi,
     },
     {
-        title: "Hey Sinamika",
+        title: "Thozhi - Hey Sinamika",
         artist: "Pradeep Kumar, Govind Vasantha",
         src: heySinamika,
     },
     {
-        title: "Journey",
+        title: "Journey - 96",
         artist: "Pradeep Kumar",
         src: journey,
     },
     {
-        title: "Moongil Thottam",
+        title: "Moongil Thottam - Kadal",
         artist: "Abhay Jodhpurkar, A R Rahman, Harini",
         src: moongilThottam,
     },
@@ -55,7 +55,7 @@ const songs = [
         src: marudhaani,
     },
     {
-        title: "Naan Un",
+        title: "Naan Un - 24",
         artist: "Arjit Singh, Chinmayi Sripada, A R Rahman",
         src: naan_un,
     },
@@ -65,7 +65,7 @@ const songs = [
         src: kodiAruvi,
     },
     {
-        title: "Neethanae",
+        title: "Neethanae - Mersal",
         artist: "Shreya Ghosal, A R Rahman",
         src: neethanae,
     },
@@ -75,7 +75,7 @@ const songs = [
         src: nilaneevaanam,
     },
     {
-        title: "Agasatha",
+        title: "Agasatha - Cuckoo",
         artist: "Pradeep Kumar, Kalyani Nair, Santhosh Narayanan",
         src: agastha,
     },
